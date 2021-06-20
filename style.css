@@ -1,0 +1,28 @@
+.card {
+    margin-top: 20px;
+}
+
+.card-header {
+    border: none;
+    background: linear-gradient(mediumseagreen, lightgreen);
+    font-size: 25px;
+}
+
+.card-body {
+    background-color: lightgreen;
+
+}
+
+.datap {
+    border: 3px solid mediumseagreen;
+    border-radius: 10px;
+}
+
+.btn-outline-danger {
+    margin-top: 10px;
+}
+
+.card-footer {
+    border: none;
+    background: linear-gradient(lightgreen, rgb(238, 231, 129));
+}
